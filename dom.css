@@ -1,0 +1,26 @@
+body {
+    background: plum;
+}
+
+
+/* .eggOrChicken {
+
+} */
+
+.rainbow {
+    background: white;
+    display: inline-block;
+    margin: 0;
+}
+
+.ex57 li {
+    background-color: #B10DC9;
+}
+
+.ex57 .highlight {
+    background-color: #7FDBFF;
+}
+
+.hidden {
+    display: none;
+}
